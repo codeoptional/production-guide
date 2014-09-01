@@ -58,6 +58,12 @@ Create a local working directory for all of your assets:
 - Select [`Share > Export Song to Disk…`][gbesd]
   - Choose `AIFF` and save the file as `codeoptional###.aiff` in the working
     directory.
+- Pipe the AIFF file through [*The Levelator*][lvl] (web archive link), an app
+  that normalizes audio levels across the recording
+  - [Levelator-2.1.1.dmg][lvldl]
+
+[lvl]: http://web.archive.org/web/20130729204551id_/http://www.conversationsnetwork.org/levelator/
+[lvldl]: https://www.dropbox.com/s/x6hjbscn29fjlqr/Levelator-2.1.1.dmg?dl=0
 
 ### MP3 creation
 
