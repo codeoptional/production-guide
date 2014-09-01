@@ -16,6 +16,11 @@ recording the full conversation via [ecamm’s Call Recorder][ecr].
 - [ ] Join the Skype call and start recording *immediately*
   - Always Be Recording™
 
+## During recording
+
+- As show note topics come up, make a quick note in the Google Doc
+  - Include relevant URLs
+
 ## Post-recording checklist
 
 - [ ] Aggregate the three raw audio files in the Dropbox directory
