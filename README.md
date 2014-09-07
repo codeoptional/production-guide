@@ -6,3 +6,4 @@ Optional*][codc].
 [codc]: http://codeoptional.com/
 
 - [Recording guide](/recording.md)
+- [Editing guide](/editing.md)
